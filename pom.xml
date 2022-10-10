@@ -113,8 +113,8 @@
 		</plugins>
 	</reporting>
 	<scm>
-		<connection>scm:git:git://IPSERVEUR/repository1/monappli</connection>
-		<url>http://IPSERVEUR/svn/monappli-web</url>
+		<connection>scm:git:git@github.com:clemane/OMDRep.git</connection>
+		<url>https://github.com/clemane/OMDRep</url>
 	</scm>
 </project>
 
